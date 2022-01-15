@@ -15,5 +15,5 @@ Data Analytics with big data and production of business results with the KPMG da
              understanding of data along with qualitiative and quantitative findings from data exploration.
 3) Data Insights and Visualization - Creation of a Dashboard communicating the data analysis plan to the Client using Tableau/PowerBI software.
 
-APPROACH: I used Tableau to create an interactive Dashboard with 3 tabs depicting the effect of the attributes Age, Gender, Wealth Segment, Job Industry, Car, State ad their correlations, on Bike related purchases using Data Visualization techniques. 
+    APPROACH: I used Tableau to create an interactive Dashboard with 3 tabs depicting the effect of the attributes Age, Gender, Wealth Segment, Job Industry, Car, State ad their correlations, on Bike related purchases using Data Visualization techniques. 
 
