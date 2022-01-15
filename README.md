@@ -1,7 +1,7 @@
 # KPMG-Data-Analytics-Virtual-Experience-Program
 Data Analytics with big data and production of business results with the KPMG data analytics team.
 
-### Tools Required: MS Excel, Jupyter Notebook, Tableau, MS Word, Python Data Analysis Library, Python Statistical Data Visualization Library.
+### Tools Required: Excel, Jupyter Notebook, Tableau, Word, Python Data Analysis Library, Python Data Visualization Library.
 
 1) Data Quality Assesment - Using Microsoft Excel and Data Analysis tools.
 
