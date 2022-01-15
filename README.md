@@ -1,5 +1,7 @@
 # KPMG-Data-Analytics-Virtual-Experience-Program
 Data Analytics with big data and production of business results with the KPMG data analytics team
+Tools Required: MS Excel, Jupyter Notebook, Tableau, MS Word, Python Data Analysis Library, Python Statistical Data Visualization Library.
+
 1) Data Quality Assesment - Using Microsoft Excel and Data Analysis tools.
 
    APPROACH : I made use of various tools in MS Excel ( most notably: filter, Data validation, Duplicate removal, Conversion of data types) , found inconsistent data,missing values, unecessary data and noisy data. I framed my findings and mitigations for the Data Quality to the client on MS Word.
@@ -10,5 +12,7 @@ Data Analytics with big data and production of business results with the KPMG da
              company. 
              Finally, data insights were communicated to prospective client using Data Visualization and Communication via a powerpoint presentation which focused on visual
              understanding of data along with qualitiative and quantitative findings from data exploration.
-3) Data Insights and Visualization - 
+3) Data Insights and Visualization - Creation of a Dashboard communicating the data analysis plan to the Client using Tableau/PowerBI software.
+
+APPROACH: I used Tableau to create an interactive Dashboard with 3 tabs depicting the effect of the attributes Age, Gender, Wealth Segment, Job Industry, Car, State ad their correlations, on Bike related purchases using Data Visualization techniques. 
 
